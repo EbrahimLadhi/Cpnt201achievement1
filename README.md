@@ -1,6 +1,5 @@
 # Cpnt201achievement1
-<<<<<<< HEAD
+HEAD
 cpnt 201 A1
 =======
 Ebrahim Ladhi
->>>>>>> main
